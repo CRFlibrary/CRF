@@ -1,0 +1,17 @@
+159.65.85.83 crfebiz.erp.com  add this to hosts file
+
+Apps URL: http://crfebiz.erp.com:8000
+User name/pw: sysadmin/sysadmin
+
+apps/apps : EBS Apps schema user name and password - for SQL Developer
+
+weblogic/weblogic123 : for application shutdown and start up only
+
+application & DB FTP / SSH user
+applmgr/applmgr123
+oracle/oracle123
+
+DB Access for Toad / SQL Developer
+
+(DESCRIPTION= (ADDRESS=(PROTOCOL=tcp)(HOST=crfebiz.erp.com)(PORT=1521)) (CONNECT_DATA= (SERVICE_NAME=VIS) (INSTANCE_NAME=VIS))
+
